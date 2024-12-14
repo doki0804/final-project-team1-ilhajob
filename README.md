@@ -1,6 +1,11 @@
 # Final team project(ilhajob)
 이 프로젝트는 구인구직 서비스를 제공하는 것을 목표로 구직을 원하는 일반회원과 구인을 원하는 기업회원의 롤을 나누어 제작하였습니다.
 
+## 기술 스택
+- Spring Boot 2.7         - Java 8         - Spring Data JPA
+- spring MVC              - Oracle 12c     - apache tomcat
+- thymeleaf               - jQuery         -  bootstrap
+
 ## 주요 화면
 ![메인페이지](https://github.com/user-attachments/assets/898c437f-6c14-441d-a4f6-030492f1587d)
 ![대쉬보드](https://github.com/user-attachments/assets/06a102bf-7b0b-47fd-b5a0-b66a97087f61)
